@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-12-20T16:10:13.801Z</updated>
+    <updated>2020-12-20T16:39:46.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,4 +10,23 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[写在前面]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/xie-zai-qian-mian/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/xie-zai-qian-mian/">
+        </link>
+        <updated>2020-12-20T11:46:33.000Z</updated>
+        <content type="html"><![CDATA[<p>为什么开始写博客？<br>
+其实写博客的想法一直都有。我发的朋友圈，qq空间之类的东西，我也是当博客一样发的。我觉得我需要一个平台，或者就一个小小的地方，记录下我生活中很多一闪而过的想法，那些无人与之诉说的想法，说了也说不明白的想法。</p>
+<pre><code>在我编写这个条目的时候，我的心情依旧很矛盾，我要创建这个博客，在这上面发布内容，说明我是想与人沟通交流这些内容的，但是我又觉得我这些细碎的想法只有我一个人在珍重，别人是不care的。即使只是我的想法也好，但是身边事物会被遗忘的感觉会根植与我心中，我不喜欢。
+
+这里相当于我的一个精神上的寄托，一个我可以在自己脑子里跨越时空寻找答案的地方，满足自己小小的表现欲，又不会引起注意的地方。
+
+所以创建了这个博客，它对所有人是公开的，可评论的，但是我不会刻意去发布它，让它公之于众，让别人觉得我开了个博客，特立独行，逆潮流，这种被人认为是异类，这个人就想彰显自己的感觉，我也很不喜欢，因为我确实不是这样的人。
+
+只有我觉得我值得把内心与之托付的人，以及不知道为何就找到这来的陌生人能来到这里，看到这些文字，一个语文不好，想法混乱的人写下的，散沙般无序，云朵般易逝的文字。
+</code></pre>
+<p>Swallowed in the Sea____Coldplay</p>
+]]></content>
+    </entry>
 </feed>
