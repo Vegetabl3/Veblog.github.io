@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-20T17:17:12.818Z</updated>
+    <updated>2020-12-21T02:46:04.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -24,6 +24,23 @@
 所以创建了这个博客，它对所有人是公开的，可评论的（gitalk还没配置好事实上），但是我不会刻意去发布它，让它公之于众，让别人觉得我开了个博客，特立独行，逆潮流，这种被人认为是异类，这个人就想彰显自己的感觉，我也很不喜欢，因为我确实不是这样的人。<br>
 只有我觉得我值得把内心与之托付的人，以及不知道为何就找到这来的陌生人能来到这里，看到这些文字，一个语文不好，想法混乱的人写下的，散沙般无序，云朵般易逝的文字。<br>
 Swallowed in the Sea____Coldplay</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/about/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站-时不时写写会有vegn游戏评测会有想对某个别扭的人的说教身边的治愈元素etc">🏠 关于本站 时不时写写，会有VeGN游戏评测，会有想对某个别扭的人的说教，身边的治愈元素，etc</h2>
+<h2 id="博主是谁-一条懒狗">👨‍💻 博主是谁 一条懒狗</h2>
+<h2 id="兴趣爱好-tetris">⛹ 兴趣爱好 Tetris</h2>
+<h2 id="联系我呀-steam-id283211909">📬 联系我呀 steam id：283211909</h2>
+<pre><code>                    WeChat id：noobVegetabl3
+</code></pre>
 ]]></content>
     </entry>
 </feed>
