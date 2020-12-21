@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-21T03:55:30.803Z</updated>
+    <updated>2020-12-21T03:57:37.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -47,7 +47,7 @@ Swallowed in the Sea____Coldplay</p>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/about/</id>
         <link href="https://vegetabl3.github.io/Veblog.github.io/post/about/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2020-12-15T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
@@ -57,6 +57,7 @@ Swallowed in the Sea____Coldplay</p>
 <h2 id="联系我呀-steam-id283211909">📬 联系我呀 steam id：283211909</h2>
 <pre><code>                    WeChat id：noobVegetabl3
 </code></pre>
+<p>此条目创建于一个诀别的日期</p>
 ]]></content>
     </entry>
 </feed>
