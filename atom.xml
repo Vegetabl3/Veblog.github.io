@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-21T04:20:54.304Z</updated>
+    <updated>2020-12-22T08:03:14.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[梦]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/meng/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/meng/">
+        </link>
+        <updated>2020-12-21T23:59:17.000Z</updated>
+        <content type="html"><![CDATA[<p>中午梦到了我爱的人，在一间昏暗的房间抱着我，说了声对不起<br>
+后续我忘了，不过应该是美好的，我意识醒来后我闭着眼睛，想要回到梦里的样子<br>
+但醒了一时半会也睡不着了，接着就是有很多旋律灵感涌进，可惜我没有音乐制作经验，不然就把它们记下来</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抢群红包]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/qiang-qun-hong-bao/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/qiang-qun-hong-bao/">
+        </link>
+        <updated>2020-12-21T04:42:22.000Z</updated>
+        <content type="html"><![CDATA[<p>我不抢的原因其实很简单，无功不受禄，我只是做了分内的事，没什么好庆祝的。<br>
+但是升哥在毕业发完群红包给lzy发完红包都不给我留一个这件事我记恨一辈子<br>
+我之前是觉得我给他做牛做马了三年连点工资都不派吗，现在在细数了他给我开的绿灯之后我觉得这也是可以接受的。我现在觉得他欠我一个表态，他让我做了太多我原本不需要承担的甚至是他需要承担的责任和事务，给我单发个5块都好，让我看到他让我干活的诚意，而不是毕业之后屁都不放一个。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一张歌单]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/yi-zhang-ge-dan/</id>
