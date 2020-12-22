@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-22T13:18:27.862Z</updated>
+    <updated>2020-12-22T13:33:48.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[100天后会死的鳄鱼君]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/100-tian-hou-hui-si-de-e-yu-jun/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/100-tian-hou-hui-si-de-e-yu-jun/">
+        </link>
+        <updated>2020-12-22T05:32:34.000Z</updated>
+        <content type="html"><![CDATA[<p>看完了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跑步&偶然的发现#1]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/pao-bu-andou-ran-de-fa-xian-1/</id>
