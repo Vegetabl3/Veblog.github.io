@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-22T08:03:14.106Z</updated>
+    <updated>2020-12-22T08:08:45.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[炮仗花]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/pao-zhang-hua/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/pao-zhang-hua/">
+        </link>
+        <updated>2020-12-22T00:05:24.000Z</updated>
+        <content type="html"><![CDATA[<p>今年的气候也有点反常，明明正月都没到，教五旁边那座桥上就开满了炮仗花，开的很漂亮<br>
+但可惜的是，刚开始发现这点时，虽和她坐在一台电动车上，却因为处在告别的边缘而没能与她分享这件事<br>
+it's a pity</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梦]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/meng/</id>
