@@ -1,14 +1,19 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>跑步&amp;偶然的发现#1 | 这个博客功能尚待完善，我太菜了</title>
+<meta name="description" content="Don&#39;t want to be Swallowed in the Sea">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://vegetabl3.github.io/Veblog.github.io//favicon.ico?v=1608731028754">
+<link rel="shortcut icon" href="https://vegetabl3.github.io/Veblog.github.io//favicon.ico?v=1608731379431">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://vegetabl3.github.io/Veblog.github.io//styles/main.css">
 
 
@@ -19,134 +24,136 @@
   
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
-    <meta name="description" content="今天一整天没课，在宿舍磨洋工把手头上能做的做了，复习还没开始，没啥计划，也没啥动力。
-所以决定下午跑一跑，之前太冷了鼻子受不住。按以前的既定方式跑了一轮，给自己充充氧，看了时间还没到饭点，索性在旁边坐着了。天冷了跑步的人也少了，看着来来往往..." />
-    <meta name="keywords" content="碎碎念" />
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://vegetabl3.github.io/Veblog.github.io/">
-        <img src="https://vegetabl3.github.io/Veblog.github.io//images/avatar.png?v=1608731028754" class="site-logo">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://vegetabl3.github.io/Veblog.github.io/">
+        <img class="avatar" src="https://vegetabl3.github.io/Veblog.github.io//images/avatar.png?v=1608731379431" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://vegetabl3.github.io/Veblog.github.io/">
         <h1 class="site-title">这个博客功能尚待完善，我太菜了</h1>
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="https://vegetabl3.github.io/Veblog.github.io/post/xie-zai-qian-mian" class="site-nav" target="_blank">
+          <a class="menu purple-link" href="https://vegetabl3.github.io/Veblog.github.io/post/xie-zai-qian-mian" class="menu" target="_blank">
             写在前面
           </a>
         
       
         
-          <a href="post/about" class="site-nav">
+          <a href="post/about" class="menu purple-link">
             关于
           </a>
         
       
         
-          <a href="https://vegetabl3.github.io/Veblog.github.io/" class="site-nav">
+          <a href="https://vegetabl3.github.io/Veblog.github.io/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="https://space.bilibili.com/4525238/dynamic" class="site-nav" target="_blank">
+          <a class="menu purple-link" href="https://space.bilibili.com/4525238/dynamic" class="menu" target="_blank">
             b站主页
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      Don't want to be Swallowed in the Sea
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-      Run by Drake "Vegetabl3" He | <a class="rss" href="https://vegetabl3.github.io/Veblog.github.io//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">跑步&amp;偶然的发现#1</h2>
-            <div class="post-date">2020-12-22</div>
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">跑步&amp;偶然的发现#1</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-12-22</span>
             
-            <div class="post-content" v-pre>
-              <p>今天一整天没课，在宿舍磨洋工把手头上能做的做了，复习还没开始，没啥计划，也没啥动力。<br>
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://vegetabl3.github.io/Veblog.github.io/tag/Omd919zR3/">
+                    碎碎念
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>今天一整天没课，在宿舍磨洋工把手头上能做的做了，复习还没开始，没啥计划，也没啥动力。<br>
 所以决定下午跑一跑，之前太冷了鼻子受不住。按以前的既定方式跑了一轮，给自己充充氧，看了时间还没到饭点，索性在旁边坐着了。天冷了跑步的人也少了，看着来来往往的人，看到了一个穿着初中校服的女生也在跑圈。<br>
 我喜欢看着别人努力的样子，喜欢努力做事的人散发出来的气场，我说不清，感觉是一种向往。我最喜欢的国家并不是日本，而是德国，就是因为德国人做的东西都能做得很极致，显示出工程师们在这上面付出的大量努力，日本产品则因为资源短缺的原因会带些妥协。<br>
 其实运动真的是一种很好的排解心情的方法，心中的不快都靠呼气呼出去了，换上新鲜的空气。<br>
 偶然的发现是我在吃饭的时候，点了西葫芦炒蛋，吃起来竟有类似蟹黄的味道。在吃完之后我就有了一个构思：西葫芦和鸡蛋3：4，鸡蛋炒生点，西葫芦放进料理机打成颗粒，放一起回锅，打个琉璃芡，放两只初秋的蟹膏（最好是青蟹）和蟹肉进去，做成羹，会很棒，我在涯口吃过类似的羹，但蟹味不浓，当然这样做价格也会很好看🤤</p>
 
-            </div>
-            
-              <div class="tag-container">
-                
-                  <a href="https://vegetabl3.github.io/Veblog.github.io/tag/Omd919zR3/" class="tag">
-                    碎碎念
-                  </a>
-                
-              </div>
-            
-            
-              <div class="next-post">
-                <div class="next">下一篇</div>
-                <a href="https://vegetabl3.github.io/Veblog.github.io/post/pao-zhang-hua/">
-                  <h3 class="post-title">
-                    炮仗花
-                  </h3>
-                </a>
-              </div>
-            
-
-            
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
-
           </div>
-
         </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://vegetabl3.github.io/Veblog.github.io/post/pao-zhang-hua/">
+              <h3 class="post-title">
+                下一篇：炮仗花
+              </h3>
+            </a>
+          </div>
+          
       </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">Don't want to be Swallowed in the Sea</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+      Run by Drake "Vegetabl3" He | <a class="rss" href="https://vegetabl3.github.io/Veblog.github.io//atom.xml" target="_blank">RSS</a>
+</div>
+
+
     </div>
+    <script type="application/javascript">
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
+hljs.initHighlightingOnLoad()
 
 var app = new Vue({
   el: '#app',
@@ -156,8 +163,6 @@ var app = new Vue({
 })
 
 </script>
-
-
 
 
 
