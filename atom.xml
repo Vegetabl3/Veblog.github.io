@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-23T11:55:43.803Z</updated>
+    <updated>2020-12-23T13:41:49.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -50,7 +50,8 @@ https://www.bilibili.com/video/BV14f4y1e72d</p>
         <link href="https://vegetabl3.github.io/Veblog.github.io/post/billboard/">
         </link>
         <updated>2020-12-22T21:16:11.000Z</updated>
-        <content type="html"><![CDATA[<p>什么东西</p>
+        <content type="html"><![CDATA[<p>什么东西，可能是我老了，理解不了现在的流行曲<br>
+老人 地铁 手机.jpg</p>
 ]]></content>
     </entry>
     <entry>
@@ -61,15 +62,6 @@ https://www.bilibili.com/video/BV14f4y1e72d</p>
         <updated>2020-12-22T21:09:41.000Z</updated>
         <content type="html"><![CDATA[<p>我严重怀疑phigros就是一个国内制作人的推广平台<br>
 这首WATER的制作水准我觉得能赶得上deadmau5</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动力&教条式行事]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/dong-li-andjiao-tiao-shi-xing-shi/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/dong-li-andjiao-tiao-shi-xing-shi/">
-        </link>
-        <updated>2020-12-22T08:27:30.000Z</updated>
-        <content type="html"><![CDATA[<p>我的初中生活是及其混沌的，没有任何方向，跟现在一样，毫无方向感地活着，唯一的区别，就是那时我不知道为什么而活着,又中二又迷茫地活着</p>
 ]]></content>
     </entry>
     <entry>
@@ -121,6 +113,17 @@ https://www.bilibili.com/video/BV14f4y1e72d</p>
         <content type="html"><![CDATA[<p>今年的气候也有点反常，明明正月都没到，教五旁边那座桥上就开满了炮仗花，开的很漂亮<br>
 但可惜的是，刚开始发现这点时，虽和她坐在一台电动车上，却因为处在告别的边缘而没能与她分享这件事<br>
 it's a pity</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/meng/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/meng/">
+        </link>
+        <updated>2020-12-21T23:59:17.000Z</updated>
+        <content type="html"><![CDATA[<p>中午梦到了我爱的人，在一间昏暗的房间抱着我，说了声对不起<br>
+后续我忘了，不过应该是美好的，我意识醒来后我闭着眼睛，想要回到梦里的样子<br>
+但醒了一时半会也睡不着了，接着就是有很多旋律灵感涌进，可惜我没有音乐制作经验，不然就把它们记下来</p>
 ]]></content>
     </entry>
 </feed>
