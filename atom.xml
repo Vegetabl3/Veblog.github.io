@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-24T13:42:40.105Z</updated>
+    <updated>2020-12-24T13:45:17.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -41,7 +41,11 @@
         </link>
         <updated>2020-12-24T04:45:32.000Z</updated>
         <content type="html"><![CDATA[<p>想自己设计个圣诞电子贺卡的背景，带一些圣诞元素的二维扁平化设计，结果连个圣诞树都画不好，只好作罢。看多点参考作品再说。<br>
-by the way我很喜欢分钟物理和Kurzgesagt的那种风格</p>
+by the way我很喜欢分钟物理和Kurzgesagt的那种风格<br>
+<img src="https://vegetabl3.github.io/Veblog.github.io//post-images/1608817410095.png" alt="" loading="lazy"><br>
+这个网站图标也是我自己设计的，是第二版，拍了拍脑子，很随意，但也蛮中意的<br>
+by the way第一版长这样<br>
+<img src="https://vegetabl3.github.io/Veblog.github.io//post-images/1608817484801.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -50,7 +54,9 @@ by the way我很喜欢分钟物理和Kurzgesagt的那种风格</p>
         <link href="https://vegetabl3.github.io/Veblog.github.io/post/leng-zhi-shi-1/">
         </link>
         <updated>2020-12-24T04:32:54.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>圣诞节是苏联解体的日子</code></pre>
+        <content type="html"><![CDATA[<pre><code>圣诞节是苏联解体的日子
+</code></pre>
+<p>精苏流泪😭</p>
 ]]></content>
     </entry>
     <entry>
