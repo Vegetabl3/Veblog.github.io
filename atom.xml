@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-24T13:30:32.622Z</updated>
+    <updated>2020-12-24T13:42:40.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://vegetabl3.github.io/Veblog.github.io/post/christmas-eve/">
         </link>
         <updated>2020-12-24T05:29:10.000Z</updated>
-        <content type="html"><![CDATA[<p>收到来自车队的礼物🎄</p>
+        <content type="html"><![CDATA[<pre><code>收到来自车队的礼物🎄
+</code></pre>
+<p>如果关系能好到现在，我心中会有不少小计划<br>
+可惜，现在内心空荡荡的</p>
 ]]></content>
     </entry>
     <entry>
@@ -25,7 +28,10 @@
         <link href="https://vegetabl3.github.io/Veblog.github.io/post/rang-shi-jian-liu-zhuan/">
         </link>
         <updated>2020-12-24T04:59:03.000Z</updated>
-        <content type="html"><![CDATA[<p>我疫情在家的时候，我应该跟你讲过，那段自暴自弃的时间（挂科T_T），觉得只有回到高中才能给我的内心带来美好的感觉</p>
+        <content type="html"><![CDATA[<p>翻了翻云盘相册，整理了下，回想起高中不少事情<br>
+高中确实很好玩，至少比我现在好得多<br>
+但是时间是流转的，春夏秋冬各有他们的韵味，像醉翁亭记描写的那样<br>
+所以即使是在我最伤心难受的时期，我也会期待明天</p>
 ]]></content>
     </entry>
     <entry>
