@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-23T16:43:52.937Z</updated>
+    <updated>2020-12-24T02:46:17.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -18,16 +18,6 @@
         <updated>2020-12-23T03:54:48.000Z</updated>
         <content type="html"><![CDATA[<p>可以用口哨完整地吹出白日了<br>
 草</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[治愈v]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/zhi-yu-v/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/zhi-yu-v/">
-        </link>
-        <updated>2020-12-23T03:15:24.000Z</updated>
-        <content type="html"><![CDATA[<p>https://www.bilibili.com/video/BV1DT4y1K7RF<br>
-https://www.bilibili.com/video/BV14f4y1e72d</p>
 ]]></content>
     </entry>
     <entry>
@@ -125,6 +115,16 @@ it's a pity</p>
 后续我忘了，不过应该是美好的，我意识醒来后我闭着眼睛，想要回到梦里的样子<br>
 有很多旋律灵感涌进，可惜我没有音乐制作经验，不然就把它们记下来，追追制作梦<br>
 快睡吧，梦里啥都有</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偶然的发现#1]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/ou-ran-de-fa-xian-1/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/ou-ran-de-fa-xian-1/">
+        </link>
+        <updated>2020-12-21T16:40:41.000Z</updated>
+        <content type="html"><![CDATA[<p>吃饭的时候，点了西葫芦炒蛋，吃起来竟有类似蟹黄的味道。<br>
+于是有了一个构思：西葫芦和鸡蛋，鸡蛋炒生点，西葫芦放进料理机打成颗粒，放一起回锅，打个琉璃芡，放两只初秋的蟹膏（最好是青蟹）和蟹肉进去，做成羹，会很棒，我在涯口吃过类似的一盅蟹羹，尽管下了一整只大闸蟹，但芡汁和其他料放的有点多，蟹味不浓，当然这样做价格也会很好看🤤</p>
 ]]></content>
     </entry>
 </feed>
