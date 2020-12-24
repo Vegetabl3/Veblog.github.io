@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-24T04:33:43.555Z</updated>
+    <updated>2020-12-24T04:48:44.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[做平面设计真的好难]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/zuo-ping-mian-she-ji-zhen-de-hao-nan/">
+        </link>
+        <updated>2020-12-24T04:45:32.000Z</updated>
+        <content type="html"><![CDATA[<p>想自己设计个圣诞电子贺卡的背景，带一些圣诞元素的二维扁平化设计，结果连个圣诞树都画不好，只好作罢。看多点参考作品再说。<br>
+by the way我很喜欢分钟物理的那种风格</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冷知识#1]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/leng-zhi-shi-1/</id>
@@ -111,18 +121,6 @@
 我也希望，在我死了之后，也有人能不以悲伤的形式留作纪念，然后忘了我，去过自己满意的生活。<br>
 向死而生，且不要忘记自己是为了什么而活着。这是我给出的答案。</p>
 <p>只要世界上还有人在意我，我就会为了在意我的人，不断地努力下去。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跑步]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/pao-bu-andou-ran-de-fa-xian-1/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/pao-bu-andou-ran-de-fa-xian-1/">
-        </link>
-        <updated>2020-12-22T03:19:05.000Z</updated>
-        <content type="html"><![CDATA[<p>今天一整天没课，在宿舍磨洋工把手头上能做的做了，复习还没开始，没啥计划，也没啥动力。<br>
-所以决定下午跑一跑，之前太冷了鼻子受不住。按以前的既定方式跑了一轮，给自己充充氧，看了时间还没到饭点，索性在旁边坐着了。天冷了跑步的人也少了，看着来来往往的人，看到了一个穿着初中校服的女生也在跑圈。<br>
-我喜欢看着别人努力的样子，喜欢努力做事的人散发出来的气场，我说不清，感觉是一种向往。我最喜欢的国家并不是日本，而是德国，就是因为德国人做的东西都能做得很极致，显示出工程师们在这上面付出的大量努力，日本产品则因为资源短缺的原因会带些妥协。<br>
-其实运动真的是一种很好的排解心情的方法，心中的不快都靠呼气呼出去了，换上新鲜的空气。</p>
 ]]></content>
     </entry>
 </feed>
