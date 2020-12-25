@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-25T12:54:48.575Z</updated>
+    <updated>2020-12-25T13:39:01.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[第十天]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/di-shi-tian/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/di-shi-tian/">
+        </link>
+        <updated>2020-12-25T05:38:22.000Z</updated>
+        <content type="html"><![CDATA[<p>已经有十天没有交流了<br>
+感觉像过了三个月</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圣诞上分计划]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/sheng-dan-shang-fen-ji-hua/</id>
@@ -117,16 +127,6 @@ by the way第一版长这样<br>
 所以我选择告别，抑制我心中的爱意，是为了在春天迎来前，守望着，我不想成为任何人的累赘<br>
 这是我能做的一切了<br>
 我无时无刻都在想回到你身边</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billboard]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/billboard/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/billboard/">
-        </link>
-        <updated>2020-12-22T21:16:11.000Z</updated>
-        <content type="html"><![CDATA[<p>什么东西，可能是我老了，理解不了现在的流行曲<br>
-老人 地铁 手机.jpg</p>
 ]]></content>
     </entry>
 </feed>
