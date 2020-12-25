@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-25T09:51:58.392Z</updated>
+    <updated>2020-12-25T12:54:48.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[圣诞上分计划]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/sheng-dan-shang-fen-ji-hua/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/sheng-dan-shang-fen-ji-hua/">
+        </link>
+        <updated>2020-12-25T04:53:25.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>宣告失败</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Respect V]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/respect-v/</id>
@@ -118,16 +127,6 @@ by the way第一版长这样<br>
         <updated>2020-12-22T21:16:11.000Z</updated>
         <content type="html"><![CDATA[<p>什么东西，可能是我老了，理解不了现在的流行曲<br>
 老人 地铁 手机.jpg</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[忘憂宮]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/wang-you-gong/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/wang-you-gong/">
-        </link>
-        <updated>2020-12-22T21:09:41.000Z</updated>
-        <content type="html"><![CDATA[<p>我严重怀疑phigros就是一个国内制作人的推广平台<br>
-这首WATER的制作水准我觉得能赶得上deadmau5</p>
 ]]></content>
     </entry>
 </feed>
