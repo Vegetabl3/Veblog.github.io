@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vegetabl3.github.io/Veblog.github.io/</id>
     <title>这个博客功能尚待完善，我太菜了</title>
-    <updated>2020-12-25T04:49:48.000Z</updated>
+    <updated>2020-12-25T09:51:58.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vegetabl3.github.io/Veblog.github.io/"/>
     <link rel="self" href="https://vegetabl3.github.io/Veblog.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://vegetabl3.github.io/Veblog.github.io/images/avatar.png</logo>
     <icon>https://vegetabl3.github.io/Veblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 这个博客功能尚待完善，我太菜了</rights>
+    <entry>
+        <title type="html"><![CDATA[Respect V]]></title>
+        <id>https://vegetabl3.github.io/Veblog.github.io/post/respect-v/</id>
+        <link href="https://vegetabl3.github.io/Veblog.github.io/post/respect-v/">
+        </link>
+        <updated>2020-12-25T01:44:45.000Z</updated>
+        <content type="html"><![CDATA[<p>售价的话这次冬促的价格可以接受（完全版rmb90）<br>
+歌曲的数目和质量碾压隔壁音灵<br>
+美漫风的主题和ui很get我的点<br>
+美中不足的就是韩风音游曲我8太中意<br>
+而且满等级的谱面我都能初见A，明明有两个side键为啥不用多点，还不如给做musynk那帮人做<br>
+不过作为DJ MAX系列在pc端上的尝试做得是相当好了<img src="https://vegetabl3.github.io/Veblog.github.io//post-images/1608889901677.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Eve]]></title>
         <id>https://vegetabl3.github.io/Veblog.github.io/post/christmas-eve/</id>
@@ -114,15 +128,6 @@ by the way第一版长这样<br>
         <updated>2020-12-22T21:09:41.000Z</updated>
         <content type="html"><![CDATA[<p>我严重怀疑phigros就是一个国内制作人的推广平台<br>
 这首WATER的制作水准我觉得能赶得上deadmau5</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldplay]]></title>
-        <id>https://vegetabl3.github.io/Veblog.github.io/post/coldplay/</id>
-        <link href="https://vegetabl3.github.io/Veblog.github.io/post/coldplay/">
-        </link>
-        <updated>2020-12-22T06:27:09.000Z</updated>
-        <content type="html"><![CDATA[<p>Which band I like the best.</p>
 ]]></content>
     </entry>
 </feed>
